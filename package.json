@@ -1,0 +1,31 @@
+{
+  "name": "employee-data-management",
+  "version": "1.0.0",
+  "description": "employee data management tool that uses firebase",
+  "main": "logic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JacqueWhite/Employee-Data-Management.git"
+  },
+  "keywords": [
+    "human",
+    "resources",
+    "hr",
+    "employee",
+    "data",
+    "tools"
+  ],
+  "author": "Jacqueline White",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JacqueWhite/Employee-Data-Management/issues"
+  },
+  "homepage": "https://github.com/JacqueWhite/Employee-Data-Management#readme",
+  "dependencies": {
+    "moment": "^2.18.1",
+    "moment-js": "^1.1.15"
+  }
+}
